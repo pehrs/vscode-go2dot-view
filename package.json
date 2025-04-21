@@ -1,8 +1,14 @@
 {
   "name": "vscode-go2dot-view",
   "displayName": "vscode-go2dot-view",
+  "publisher": "pehrs-com",
   "description": "Generate graphical view of a golang package",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "author": {"name": "Matti Pehrs", "url": "https://pehrs.com"},
+  "repository": {"url": "https://github.com/pehrs/vscode-go2dot-view"},
+  "license": "MIT",
+  "icon": "assets/go2dot-view.png",
+  "keywords": ["go", "golang", "uml", "image", "png", "package", "visualize", "view"],
   "engines": {
     "vscode": "^1.99.0"
   },
