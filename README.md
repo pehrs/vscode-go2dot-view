@@ -10,8 +10,9 @@ Example output:
 
 This plugin adds an action "GO: view package" that will generate an image of the package for the currently open golang file.
 
-To run the action: Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
-"GO: view package"
+To run the action: Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter:
+
+`"GO: view package"`
 
 ## Requirements
 
